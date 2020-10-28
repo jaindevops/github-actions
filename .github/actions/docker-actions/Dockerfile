@@ -4,4 +4,6 @@ COPY . /dir
 
 RUN echo "Hello Abhi"
 
-CMD ["/bin/bash"]
+RUN ls -l
+
+CMD ["/bin/sh"]
