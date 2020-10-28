@@ -1,0 +1,6 @@
+name: Hello docker
+author: Abhishek
+description: Demo description
+runs:
+  using: "docker"
+  image: "Dockerfile"
