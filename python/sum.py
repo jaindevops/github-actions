@@ -1,10 +1,10 @@
 # This program adds two numbers
 
-num1 = 5
-num2 = 3
+NUM1 = 5
+NUM2 = 3
 
 # Add two numbers
-sum = num1 + num2
+SUM = NUM1 + NUM1
 
 # Display the sum
-print(f'The sum of {num1} and {num2} is {sum})
+print(f'The sum of {NUM1} and {NUM1} is {SUM}' )
