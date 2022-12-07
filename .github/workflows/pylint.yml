@@ -2,6 +2,8 @@ name: Pylint
 
 on:
   push:
+    branches: [ develop, main ]
+  pull_request:
     branches: [ main ]
   schedule:
     - cron: "0 1 * * *"
