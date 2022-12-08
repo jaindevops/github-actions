@@ -7,4 +7,4 @@ NUM2 = 3
 SUM = NUM1 + NUM1
 
 # Display the sum of two numbers
-print(f'The sum of {NUM1} and {NUM1} is {SUM}')
+print(f'The sum of {NUM1} and {NUM1} is {SUM})
